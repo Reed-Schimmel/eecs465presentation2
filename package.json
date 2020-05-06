@@ -1,0 +1,18 @@
+{
+  "name": "dos-express",
+  "version": "1.0.0",
+  "description": "Demo component for presentation 2 for EECS 465 at KU. Spring 2020",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "toobusy-js": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Reed Schimmel",
+  "license": "MIT"
+}
