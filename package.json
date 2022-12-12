@@ -4,7 +4,7 @@
   "description": "Demo component for presentation 2 for EECS 465 at KU. Spring 2020",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "https": "^1.0.0",
     "toobusy-js": "^0.5.1"
   },
